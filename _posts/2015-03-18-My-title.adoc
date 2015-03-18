@@ -1,6 +1,6 @@
 = My title
 
-:hp-image: <a href = "https://ununsplash.imgix.net/photo-1423753623104-718aaace6772?q=75&fm=jpg&s=1ffa61419561b5c796bca3158e7c704c"> </a>
+:hp-image:https://<ununsplash.imgix.net/photo-1423753623104-718aaace6772?q=75&fm=jpg&s=1ffa61419561b5c796bca3158e7c704c>[]
 == hello, world
 
 My first pos
